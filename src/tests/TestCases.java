@@ -10,7 +10,7 @@ public class TestCases {
 	
 	 @DataProvider(name="testCase")
 	 public static Object[][] get1Data(){
-	     return new Object[][]{{3, data}, {4, data}, {5, data}, {6, data}, {7, data}, {8, data}, {10, data}};
+	     return new Object[][]{{3, data}, {4, data}, {5, data}, {6, data}, {7, data}, {8, data}, {9, data}, {10, data}};
 	 }
 
 }
